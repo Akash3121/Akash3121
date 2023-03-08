@@ -6,3 +6,4 @@ Akash - readme testing in progress
 <img src="https://github.com/Akash3121/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 ![](https://github.com/Akash3121/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/Akash3121/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jstrieb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
