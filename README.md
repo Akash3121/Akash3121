@@ -13,3 +13,4 @@ Akash - readme testing in progress
 - [What is strict mode in JavaScript?](https://akashrj.hashnode.dev/what-is-strict-mode-in-javascript)
 - [&#39;==&#39; vs &#39;===&#39; in Javascript](https://akashrj.hashnode.dev/vs-in-javascript)
 <!-- BLOG-POST-LIST:END -->
+& [more](https://akashrj.hashnode.dev/).
