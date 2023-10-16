@@ -1,6 +1,3 @@
-README.md testing in progress
-                  - Akash
-
 ## :octocat: Github Stats 
 
 ![](https://github.com/Akash3121/github-stats/blob/master/generated/overview.svg)
