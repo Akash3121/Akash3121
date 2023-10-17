@@ -17,3 +17,5 @@
 - [What is strict mode in JavaScript?](https://akashrj.hashnode.dev/what-is-strict-mode-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 & [many more](https://akashrj.hashnode.dev/).
+
+Thanks for stopping by!
