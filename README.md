@@ -16,4 +16,4 @@
 - [Minimizing the use of Global Variables in Javascript.](https://akashrj.hashnode.dev/minimizing-the-use-of-global-variables-in-javascript)
 - [What is strict mode in JavaScript?](https://akashrj.hashnode.dev/what-is-strict-mode-in-javascript)
 <!-- BLOG-POST-LIST:END -->
-& [more](https://akashrj.hashnode.dev/).
+& [many more](https://akashrj.hashnode.dev/).
