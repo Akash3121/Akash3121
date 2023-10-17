@@ -1,4 +1,4 @@
-## Hi y'all, I'm Kari! 👋
+## Hi y'all, I'm Akash! 👋
 
 ## :octocat: Github Stats 
 
