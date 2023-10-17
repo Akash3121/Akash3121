@@ -1,11 +1,11 @@
-### Hi y'all, I'm Kari! 👋
+## Hi y'all, I'm Kari! 👋
 
 ## :octocat: Github Stats 
 
 ![](https://github.com/Akash3121/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Akash3121/github-stats/blob/master/generated/languages.svg)
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [What is Project?](https://akashrj.hashnode.dev/what-is-project)
 - [The history behind the Error 404. Why do we call Error 404 as &quot;404&quot;?](https://akashrj.hashnode.dev/the-history-behind-the-error-404-why-do-we-call-error-404-as-404)
