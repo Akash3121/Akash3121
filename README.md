@@ -10,11 +10,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [#5 How to Create a Lightsaber Prefab in Unity](https://akashrj.hashnode.dev/5-how-to-create-a-lightsaber-prefab-in-unity)
 - [Foundations of Effective Project Management.](https://akashrj.hashnode.dev/foundations-of-effective-project-management)
 - [#4 Git and Git LFS: A Guide to Version Control and Large Files](https://akashrj.hashnode.dev/4-git-and-git-lfs-a-guide-to-version-control-and-large-files)
 - [#3 Project Creation and Oculus Integration](https://akashrj.hashnode.dev/3-project-creation-and-oculus-integration)
 - [How Python Empowers: A Comprehensive Guide to Programming, Web Development, and Automation](https://akashrj.hashnode.dev/how-python-empowers-a-comprehensive-guide-to-programming-web-development-and-automation)
-- [#2 How to Enable Developer Mode on Oculus Quest 2](https://akashrj.hashnode.dev/2-how-to-enable-developer-mode-on-oculus-quest-2)
 <!-- BLOG-POST-LIST:END -->
 & [many more](https://akashrj.hashnode.dev/).
 
