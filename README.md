@@ -10,11 +10,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [#12 Oculus Project Setup Tools Demystified](https://akashrj.hashnode.dev/12-oculus-project-setup-tools-demystified)
 - [#11 Adding OVR Camera Rig to Your Unity Scene](https://akashrj.hashnode.dev/11-adding-ovr-camera-rig-to-your-unity-scene)
 - [#10 Introducing the Cube Obliteration Zone](https://akashrj.hashnode.dev/10-introducing-the-cube-obliteration-zone)
 - [#9 Slicing Through the Beat: Implementing Blade Script for Cube Destruction in Beat Saber VR](https://akashrj.hashnode.dev/9-slicing-through-the-beat-implementing-blade-script-for-cube-destruction-in-beat-saber-vr)
 - [#8 Dance of the Cubes: Crafting Dynamic Spawns in Beat Saber VR](https://akashrj.hashnode.dev/8-dance-of-the-cubes-crafting-dynamic-spawns-in-beat-saber-vr)
-- [#7 Creating a Beat Saber Cube Prefab in Unity](https://akashrj.hashnode.dev/7-creating-a-beat-saber-cube-prefab-in-unity)
 <!-- BLOG-POST-LIST:END -->
 & [many more](https://akashrj.hashnode.dev/).
 
