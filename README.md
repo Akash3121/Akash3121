@@ -10,11 +10,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Step-by-Step Guide: Connecting Oculus App to Quest 2 and Building for VR on Windows and Linux](https://akashrj.hashnode.dev/a-step-by-step-guide-connecting-oculus-app-to-quest-2-and-building-for-vr-on-windows-and-linux)
 - [Troubleshooting Unity: Scene and Hierarchy Not Showing? Here&#39;s a Quick Fix!](https://akashrj.hashnode.dev/troubleshooting-unity-scene-and-hierarchy-not-showing-heres-a-quick-fix)
 - [Enhancing Unity Editor Auto-Completion in Visual Studio](https://akashrj.hashnode.dev/enhancing-unity-editor-auto-completion-in-visual-studio)
 - [#17 Sonic Evolution: Dance Monkey Edition &lpar;Version 2&rpar;](https://akashrj.hashnode.dev/17-sonic-evolution-dance-monkey-edition-version-2)
 - [#16 Sonic Synchronization: Harnessing Audacity for Beat Timestamps](https://akashrj.hashnode.dev/16-sonic-synchronization-harnessing-audacity-for-beat-timestamps)
-- [#15 Syncing TheFatRat - Unity with Dynamic Cube Spawns &lpar;Version 1&rpar;](https://akashrj.hashnode.dev/15-syncing-thefatrat-unity-with-dynamic-cube-spawns-version-1)
 <!-- BLOG-POST-LIST:END -->
 & [many more](https://akashrj.hashnode.dev/).
 
