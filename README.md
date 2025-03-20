@@ -4,8 +4,6 @@
 
 <!-- 
 ![](https://streak-stats.demolab.com/?user=Akash3121)
-
-<img src="https://streak-stats.demolab.com/?user=Akash3121" alt="GitHub Streak Stats" />
 -->
 
 ## :octocat: Github Stats 
